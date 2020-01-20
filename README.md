@@ -1,1 +1,7 @@
-# H3_Yvann_Marivint_Python_Exercices
+# Projet
+
+Exercices TP du 20 / 01 / 2020
+
+Cordialement
+
+Yvann Marivint
